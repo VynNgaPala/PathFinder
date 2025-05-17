@@ -99,6 +99,7 @@ if ($result_applications && $row = $result_applications->fetch_assoc()) {
                     <li class="nav-item">
                         <a class="nav-link" href="view_jobs.php"><i class="bi bi-briefcase-fill"></i> View Jobs</a>
                     </li>
+                     <li class="nav-item"><a class="nav-link" href="view_all_applications.php"><i class="bi bi-card-checklist"></i> All Applications</a></li>
                     <li class="nav-item">
                         <a class="nav-link" href="../logout.php"><i class="bi bi-box-arrow-right"></i> Logout</a>
                     </li>
